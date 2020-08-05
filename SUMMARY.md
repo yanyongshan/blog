@@ -8,5 +8,9 @@
 
 ## Android
 
-* [Untitled](android/untitled.md)
+* [Android优化](android/untitled.md)
+
+## kafka
+
+* [kafka架构设计](kafka/kafka-jia-gou-she-ji.md)
 
