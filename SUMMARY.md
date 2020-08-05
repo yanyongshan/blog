@@ -1,6 +1,6 @@
 # Table of contents
 
-* [blog](README.md)
+* [docs](README.md)
 
 ## flutter
 
